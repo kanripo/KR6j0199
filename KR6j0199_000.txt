@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 廣大寶樓閣善住祕密陀羅尼經
+#+DATE: 2015-08-30 20:27:44.718715
+#+PROPERTY: JUAN 0
